@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Task\\CourseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E010599A-45C2-4658-AF98-4B3204D08F0F}|Repository\\Repository.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\task\\courseapp\\repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E010599A-45C2-4658-AF98-4B3204D08F0F}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E010599A-45C2-4658-AF98-4B3204D08F0F}|Repository\\Repository.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\task\\courseapp\\repository\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E010599A-45C2-4658-AF98-4B3204D08F0F}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Task\\CourseApp\\Repository\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Task\\CourseApp\\Repository\\Repositories\\BaseRepository.cs*",
+              "RelativeToolTip": "Repository\\Repositories\\BaseRepository.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:39:33.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Task\\CourseApp\\Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Task\\CourseApp\\Repository\\Repositories\\Interfaces\\IBaseRepository.cs*",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\IBaseRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:34:16.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

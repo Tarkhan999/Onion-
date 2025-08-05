@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseApp", "CourseApp\CourseApp.csproj", "{2A2CDDE3-C5F1-4CF9-8380-D60D66163F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{9E421734-CEE9-44D9-A83D-C27E1BB5C881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{E010599A-45C2-4658-AF98-4B3204D08F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A2CDDE3-C5F1-4CF9-8380-D60D66163F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2CDDE3-C5F1-4CF9-8380-D60D66163F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2CDDE3-C5F1-4CF9-8380-D60D66163F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2CDDE3-C5F1-4CF9-8380-D60D66163F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E421734-CEE9-44D9-A83D-C27E1BB5C881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E421734-CEE9-44D9-A83D-C27E1BB5C881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E421734-CEE9-44D9-A83D-C27E1BB5C881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E421734-CEE9-44D9-A83D-C27E1BB5C881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E010599A-45C2-4658-AF98-4B3204D08F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E010599A-45C2-4658-AF98-4B3204D08F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E010599A-45C2-4658-AF98-4B3204D08F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E010599A-45C2-4658-AF98-4B3204D08F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC241C7-E100-40A9-8491-2C46CB06DCC8}
+	EndGlobalSection
+EndGlobal
