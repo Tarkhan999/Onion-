@@ -8,6 +8,14 @@ namespace Service.Services.Interfaces
 {
     public interface IEducationService
     {
+        void Create();
+        void Delete();
+        void Edit(int id);
+        void GetById();
+        void GetAll();
+        void GetAllWithExpression(Func<object, bool> predicate);
+
+
 
 
     }
