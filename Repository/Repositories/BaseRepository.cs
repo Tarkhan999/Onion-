@@ -30,12 +30,12 @@ namespace Repository.Repositories
 
         public List<T> GetAllWithExpression(Func<T, bool> predicate)
         {
-            throw new NotImplementedException();
+            return AppDbContext<T>.datas.Where(predicate).ToList();
         }
 
         public T GetById(int id)
         {
-            throw new NotImplementedException();
+            return AppDbContext<T>.datas.FirstOrDefault(m => m.Id == id);
         }
     }
 }
